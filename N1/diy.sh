@@ -13,4 +13,3 @@ rm -rf feeds/packages/net/v2ray-geodata
 # Add packages
 svn co https://github.com/nantayo/my-pkg/trunk package/my-pkg
 svn co https://github.com/ophub/luci-app-amlogic/trunk package/amlogic
-svn co https://github.com/sbwml/luci-app-mosdns/trunk package/mosdns
